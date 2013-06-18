@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ESense.PcbDoc   5/23/2011  9:32:22 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESense.TXT
+EIA File   : ESense.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        16mil (0.4064mm)         Round          218              70.35 Inch (1786.82 mm)
+T2        30mil (0.762mm)          Round          3                1.40 Inch (35.56 mm)
+T3        35mil (0.889mm)          Round          62               40.77 Inch (1035.54 mm)
+T4        36mil (0.9144mm)         Round          10               5.16 Inch (131.07 mm)
+T5        37mil (0.9398mm)         Round          6                0.50 Inch (12.70 mm)
+T6        45mil (1.143mm)          Round          8                1.81 Inch (46.03 mm)
+T7        51.18mil (1.29997mm)     Round          4                1.69 Inch (42.94 mm)
+T8        59.06mil (1.50012mm)     Round          12               11.43 Inch (290.24 mm)
+T9        80mil (2.032mm)          Round          10               5.36 Inch (136.15 mm)
+T10       102.36mil (2.59994mm)    Round          2                1.10 Inch (27.94 mm)
+T11       137.8mil (3.50012mm)     Round          4                26.00 Inch (660.40 mm)
+T12       140.16mil (3.56006mm)    Round          4                5.70 Inch (144.85 mm)
+T13       155mil (3.937mm)         Round          4                2.51 Inch (63.82 mm)
+T14       210mil (5.334mm)         Round          2                1.02 Inch (25.91 mm)
+---------------------------------------------------------------------------
+Totals                                            349              174.80 Inch (4439.96 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

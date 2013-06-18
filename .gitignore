@@ -1,0 +1,21 @@
+chDocPreview
+*.PcbDocPreview
+*.xml
+*.idw
+*.ipt
+History/
+OldVersions/
+Orders/
+Project\ Logs*
+Project\ Outputs*
+*.scc
+*.lck
+*.lnk
+Gerbs\ *
+*.swp
+*.swo
+README.aux
+README.dvi
+README.pdf
+USBAudioAmpAssembly.zip
+USBAudioAmpDrawings.OutJob
